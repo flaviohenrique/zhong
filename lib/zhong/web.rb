@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 require "erb"
-require "sinatra/base"
-
+require "sinatra"
 require "zhong"
 require "zhong/web_helpers"
 
